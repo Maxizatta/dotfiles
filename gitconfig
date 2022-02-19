@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maxizatta@gmail.com
+	name = Maximiliano Zatta
